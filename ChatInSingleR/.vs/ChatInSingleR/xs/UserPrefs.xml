@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{F89B1EBF-8BA5-40CE-960F-327553991065}|Default">
+  <MonoDevelop.Ide.ItemProperties.ChatInSingleR FirstBuild="True" PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChatInSingleR/Startup.cs">
+    <Files>
+      <File FileName="ChatInSingleR/ChatHub.cs" Line="12" Column="10" />
+      <File FileName="ChatInSingleR/Startup.cs" Line="35" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChatInSingleR" expanded="True">
+            <Node name="ChatInSingleR" expanded="True">
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
